@@ -1,6 +1,6 @@
 <img src="https://github.com/YuGo-Ride-Hailing-App/YuGo-Frontend/blob/main/src/assets/img/LogoLetters.png" height="120">
 
-## YuGo Hailing App
+# YuGo Hailing App
 
 YuGo is mobile and web ride-hailing app designed to provide an efficient and convenient transportation solution to its users. Yugo was developed as out college project. Similar to Uber and Lyft, YuGo allows users to request a ride from their current location and connect with a nearby driver for a reliable and safe trip.
 
