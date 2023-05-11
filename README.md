@@ -163,6 +163,6 @@ Admins can review requests made by drivers to change their vehicle information, 
 ## Authors
 
 - [Jovan Jokić](https://github.com/jokicjovan)
-- [Vlada Dević](https://github.com/ForLoop111)
+- [Vlada Dević](https://github.com/vdevic01)
 - [Vukašin Bogdanović](https://github.com/vukasinb7)
 
